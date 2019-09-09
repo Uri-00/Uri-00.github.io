@@ -1884,8 +1884,8 @@ body {
   background-image: url("../../../assets/images/laxmi-31-2000x1333.jpg");
 }
 .cid-rAndUjtSKZ {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #6b3f49;
 }
 .cid-rAndUjtSKZ .line {
@@ -1911,7 +1911,7 @@ body {
   text-align: center;
 }
 .cid-rAndxWdtKN {
-  padding-top: 30px;
+  padding-top: 60px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
@@ -1919,9 +1919,13 @@ body {
   color: #767676;
   text-align: left;
 }
+.cid-rAndxWdtKN H2 {
+  color: #767676;
+  text-align: left;
+}
 .cid-rAn2asLwtW {
   padding-top: 15px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #efefef;
 }
 .cid-rAn2asLwtW .mbr-text,
@@ -1933,7 +1937,7 @@ body {
 }
 .cid-rAmNun0HtS {
   padding-top: 60px;
-  padding-bottom: 45px;
+  padding-bottom: 60px;
   background: linear-gradient(45deg, #6b3f49, #91c4c4);
 }
 @media (min-width: 992px) {
@@ -1961,12 +1965,15 @@ body {
   text-align: left;
 }
 .cid-rAnadNCTnC {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 60px;
+  padding-bottom: 0px;
   background-color: #91c4c4;
 }
 .cid-rAnadNCTnC .mbr-section-subtitle {
   color: #ffffff;
+}
+.cid-rAnadNCTnC H2 {
+  color: #2e2e2e;
 }
 .cid-rAn86xrJ4T {
   padding-top: 15px;
@@ -1975,36 +1982,36 @@ body {
 }
 .cid-rAn86xrJ4T .mbr-section-subtitle {
   color: #767676;
-  text-align: center;
+  text-align: left;
   font-weight: 300;
 }
 .cid-rAn86xrJ4T .step {
-  width: 24px;
-  height: 24px;
-  font-size: 12px;
+  width: 20px;
+  height: 20px;
+  font-size: 10px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #91c4c4;
 }
 .cid-rAn86xrJ4T .separline {
   position: relative;
 }
 .cid-rAn86xrJ4T .separline:after {
-  top: 28px;
-  left: 10px;
+  top: 24px;
+  left: 8px;
   position: absolute;
   content: "";
   width: 2px;
-  height: calc(100% - (12px + 4px) * 2);
-  background-color: #efefef;
+  height: calc(100% - (10px + 4px) * 2);
+  background-color: #91c4c4;
 }
 .cid-rAn8VQM83t {
-  padding-top: 0px;
+  padding-top: 45px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rAn8VQM83t .mbr-section-subtitle {
   color: #767676;
-  text-align: center;
+  text-align: left;
   font-weight: 300;
 }
 .cid-rAn8VQM83t .step {
@@ -2012,7 +2019,7 @@ body {
   height: 20px;
   font-size: 10px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #91c4c4;
 }
 .cid-rAn8VQM83t .separline {
   position: relative;
@@ -2024,16 +2031,16 @@ body {
   content: "";
   width: 2px;
   height: calc(100% - (10px + 4px) * 2);
-  background-color: #efefef;
+  background-color: #91c4c4;
 }
 .cid-rAn6BJYS9Q {
-  padding-top: 15px;
-  padding-bottom: 60px;
+  padding-top: 45px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-rAn6BJYS9Q .mbr-section-subtitle {
   color: #767676;
-  text-align: center;
+  text-align: left;
   font-weight: 300;
 }
 .cid-rAn6BJYS9Q .step {
@@ -2041,7 +2048,7 @@ body {
   height: 20px;
   font-size: 10px;
   border-radius: 50%;
-  border: 2px solid #efefef;
+  border: 2px solid #91c4c4;
 }
 .cid-rAn6BJYS9Q .separline {
   position: relative;
@@ -2053,18 +2060,18 @@ body {
   content: "";
   width: 2px;
   height: calc(100% - (10px + 4px) * 2);
-  background-color: #efefef;
+  background-color: #91c4c4;
 }
 .cid-rBhtl9iRqu {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/uri-13-06-19-mg-5305-1500x845.jpg");
+  background-image: url("../../../assets/images/laxmi-27-2000x920.jpg");
 }
 .cid-rBhtl9iRqu H2 {
-  color: #6b3f49;
+  color: #efefef;
 }
 .cid-rBhtl9iRqu .mbr-section-subtitle {
-  color: #6b3f49;
+  color: #ffffff;
 }
 .cid-rAmGWuLi1n {
   padding-top: 90px;
@@ -2144,12 +2151,13 @@ body {
   color: #767676;
 }
 .cid-rAmGWuLi1n H2 {
-  color: #767676;
+  color: #6b3f49;
+  text-align: left;
 }
 .cid-rAnijBwTNK {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/laxmi-19-2000x1044.jpg");
+  background-image: url("../../../assets/images/laxmi-28-2000x839.jpg");
 }
 .cid-rAnijBwTNK H2 {
   color: #91c4c4;
